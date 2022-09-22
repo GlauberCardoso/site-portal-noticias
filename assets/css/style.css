@@ -334,11 +334,15 @@
     width: 320px;
     height: 420px;
     float: left;
+    margin-top: 20px;
 }
 
-.noticia-item {
+.noticiaitem {
     text-align: left;
     height: 88px;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: #333;
 }
 
 .noticia-img {
